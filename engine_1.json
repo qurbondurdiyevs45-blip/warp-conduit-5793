@@ -1,0 +1,15 @@
+{
+  "name": "warp-conduit-5793",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5785,
+    "createdAt": "2026-07-16T06:20:58.178Z"
+  }
+}
